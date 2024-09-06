@@ -1,4 +1,4 @@
-# CS Notes
+By Joshua CHOI Kui Wang
 
 ## Preface
 I always believed in the importance of self learning over going to school-like learning. However, there are plenty people that doesn't know how or where to achieve this.<br>
