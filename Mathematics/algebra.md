@@ -4,7 +4,6 @@
 You might be wondering, why mathematics? I came here to learn about computer science!<br>
 Sorry to tell this to you, but fundamentally, computer science is just mathematics. If you want to get far enough in computer science, then you need to have a strong foundation in mathematics.<br>
 <br>
-Here are some resources:<br>
 ### Khan Academy
 - Prerequsites: None
 - Difficultly: 1 / 10
