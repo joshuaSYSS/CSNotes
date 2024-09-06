@@ -1,4 +1,4 @@
-By Joshua CHOI Kui Wang
+By [Joshua CHOI Kui Wang](https://joshuasyss.github.io/).
 
 ## Preface
 I always believed in the importance of self learning over going to school-like learning. However, there are plenty people that doesn't know how or where to achieve this.<br>
@@ -88,3 +88,11 @@ This website will keep updating as I pursue my studies, so stay tuned!
 ### Competitive Programming
 - [What is Competitive Programming?]
 - [Basic Competitive Programming]
+
+## Motivation
+Actual Motivation Here: "Success is not final; failure is not fatal: It is the courage to continue that counts."
+
+<hr>
+Created on 6/9/2024.<br>
+Created by Joshua CHOI Kui Wang. Email me: sy10236@syss.edu.hk or kuiwchoi2-c@my.cityu.edu.hk<br>
+Education should be free for all, hence this project is Unlicensed.
