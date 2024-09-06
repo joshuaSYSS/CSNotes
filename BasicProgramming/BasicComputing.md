@@ -18,3 +18,9 @@
 - Difficulty:
 - Expected Time to Complete:
 - [6.0001](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)
+
+### UCB CS61A Structure and Interpretation of Computer Programs
+- Prerequisite: None
+- Difficulty:
+- Expected Time to Complete:
+- [CS61A](https://cs61a.vercel.app/)
