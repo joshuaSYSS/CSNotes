@@ -6,7 +6,7 @@ Sorry to tell this to you, but fundamentally, computer science is just mathemati
 <br>
 ### Khan Academy Algebra 1, 2
 - Prerequsites: None
-- Difficultly: 1 / 10
+- Difficulty: 1 / 10
 - Expected Time to Learn: Days to at most 1 month
 - [Algebra 1](https://www.khanacademy.org/math/algebra)
 - [Algebra 2](https://www.khanacademy.org/math/algebra2)
