@@ -58,6 +58,9 @@ This website will keep updating as I pursue my studies, so stay tuned!
 ### Operating System
 - [Basic Operating System]
 
+### Data Science
+- [Basic Data Science]
+
 ### Database System
 - [Basic Database System]
 - [SQL]
