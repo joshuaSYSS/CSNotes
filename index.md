@@ -15,6 +15,7 @@ This website will keep updating as I pursue my studies, so stay tuned!
 - [How should I approach self learning?]
 - [How should I self learn?]
 - [What should be my roadmap?]
+- [Tools]
 
 ### Mathematics
 - [Algebra]
