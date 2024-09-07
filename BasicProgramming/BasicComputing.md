@@ -9,18 +9,20 @@
 
 ### MIT 6.100 Introduction to CS and Programming using Python
 - Prerequisite: None
-- Difficulty:
-- Expected Time to Complete:
+- Difficulty: 1 / 10
+- Expected Time to Complete: Hours to at most days
 - [6.100](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 
 ### MIT 6.0001 Introduction to Computer Science and Programming in Python
 - Prerequisite: None
-- Difficulty:
-- Expected Time to Complete:
+- Difficulty: 1 / 10
+- Expected Time to Complete: Hours to at most days
 - [6.0001](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)
 
 ### UCB CS61A Structure and Interpretation of Computer Programs
 - Prerequisite: None
-- Difficulty:
-- Expected Time to Complete:
+- Difficulty: 2 / 10
+- Expected Time to Complete: Days to at most months
 - [CS61A](https://cs61a.vercel.app/)
+
+All courses provided here are introductions to computer programs, so understanding these materials throughoutly is important.
