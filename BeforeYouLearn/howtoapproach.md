@@ -23,5 +23,5 @@
 
 <p>
   In our rapidly changing world, the ability to learn independently is crucial. The job market is evolving, with many industries undergoing transformations that require new skills and knowledge. Lifelong learning—particularly through self-directed methods—ensures that individuals remain relevant and competitive. For example, professionals in technology often engage in self-learning to keep up with programming languages, software updates, and emerging trends. This adaptability not only enhances career prospects but also fosters a mindset of growth and curiosity.</p>
-
+<hr>
   <footer>Written with help of ChatGPT because I have bad English.</footer>
