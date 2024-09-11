@@ -1,5 +1,4 @@
-# Electronic Design
-## Signals
+# Electronic Design / Signals
 
 ### UCB EE120 Signal and Systems 🎯
 - Prerequisites: CS61A, CS70, Calculus, Linear Algebra
