@@ -1,5 +1,4 @@
-# Algorithm
-## Advanced Algorithms
+# Algorithm / Advanced Algorithms
 
 ### MIT 6.854 Advanced Algorithms 🎯
 - Prerequisites: ?
