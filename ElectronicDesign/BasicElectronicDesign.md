@@ -1,4 +1,4 @@
-# Electronic Design / Basic Electronic Design
+## Electronic Design / Basic Electronic Design
 
 ### MIT 8.02 Physics II: Electricity and Magnetism 🎯
 - Prerequistes: [8.012](https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/)
