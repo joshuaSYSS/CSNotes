@@ -8,4 +8,5 @@ Here, I will talk about some notations and keywords located throughout this note
 4. Difficulty denotes how hard is it to learn this course. In general, 1 / 10 denotes pre-college stuff while 10 / 10 denotes graduate and above stuff.
 5. Expected Time to Learn denotes the expected duration for a student to learn this course. Note this varies a lot, so take it simply as an extra relative measure, but not an absolute measure.
 
-Have Fun!
+I attempt to learn the courses beforehand, but there are some materials that are strongly recommended by others (such as csdiy.wiki) and I haven't learnt it.<br>
+Hence, for materials in this case, it will be denoted with 🎯.
