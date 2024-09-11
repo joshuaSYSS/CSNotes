@@ -23,9 +23,8 @@ This website will keep updating as I pursue my studies, so stay tuned!
 - [Algebra]
 - [Geometry]
 - [Calculus]
-- [Statistics]
-- [Discrete Math]
-- 
+- [Statistics and Probability]
+- [Discrete Math](https://joshuasyss.github.io/CSNotes/Mathematics/discretemath.html)
 
 ### Basic Programming
 - [Basic Programming Concepts]
