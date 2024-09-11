@@ -1,5 +1,4 @@
-#Basic Programming
-## C and C++
+# Basic Programming / C and C++
 
 ### Harvard CS50 This is CS50x 🎯
 - Prerequisite: None
