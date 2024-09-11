@@ -3,8 +3,9 @@ By [Joshua CHOI Kui Wang](https://joshuasyss.github.io/).
 ## Preface
 I always believed in the importance of self learning over going to school-like learning. However, there are plenty people that doesn't know how or where to achieve this.<br>
 Hence, I decided to make this notes + resources for everyone to learn Computer Science (and a bit of Mathematics) by yourself.<br>
-This project was also inspired by [CSDIY](https://csdiy.wiki/), which I learnt a lot from. Thanks!
-
+In addition, I included some notes (both lecture notes and my own notes) from City University of Hong Kong.<br>
+This project was inspired by [CSDIY](https://csdiy.wiki/), which I learnt a lot from, and<br>
+[CityU-CS notes](https://github.com/mojimoon/CityU-CS/tree/main) by mojimoon. Thanks to the authors of both projects!
 ## Some extra things
 You might find some resources / notes missing, but it is because I try to learn the topic using that resource before posting it here ("But doesn't it mean you have to learn topics for computer science undergraduate?" Yes, but I'm kinda crazy, so I'll do it anyway), so I apologize for any inconvenience.<br>
 This website will keep updating as I pursue my studies, so stay tuned!
