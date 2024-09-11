@@ -1,5 +1,4 @@
-# Algorithm
-## Basic Algorithm
+# Algorithm / Basic Algorithm
 
 An algorithm is a procedure used for solving a problem or performing a computation.<br>
 For example, a recipe is an algorithm, where it clearly wrote down the procedure on how to make a dish.<br>
