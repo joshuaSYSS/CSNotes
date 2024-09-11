@@ -1,2 +1,1 @@
-# Before you Learn
-## Why should I learn Computer Science?
+## Before you Learn / Why should I learn Computer Science?
