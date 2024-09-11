@@ -1,5 +1,4 @@
-# Mathematics
-## Discrete Mathematics
+# Mathematics / Discrete Mathematics
 
 Discrete Mathematics, as its name suggests, is the study on discrete things in mathematics. What do discrete things mean then? For example, integers, graphs etc.<br>
 <br>
