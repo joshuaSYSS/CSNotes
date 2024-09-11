@@ -1,5 +1,4 @@
-# Basic Programming
-## Basic Computing
+# Basic Programming / Basic Computing
 
 ### UCB CSW10 The Beauty and Joy of Computing
 - Prerequisite: None
