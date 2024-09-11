@@ -96,12 +96,7 @@ This website will keep updating as I pursue my studies, so stay tuned!
 - [Basic Competitive Programming]
 
 ### CityU Notes
-#### Year 1
-- [MA1200]
-- [CS1302]
-- [CS2204]
-- [PHY1201]
-- [GE1354]
+- [Notes]
 
 ## Motivation
 Actual Motivation Here: "Success is not final; failure is not fatal: It is the courage to continue that counts."
