@@ -1,5 +1,4 @@
-# Before you Learn
-## How should I approach self learning?
+## Before you Learn / How should I approach self learning?
 
 ### Preface
 <p>Some people view self learning as "useless", "hard" and "inefficient". But as we head into the modern society, we should change the perspective towards self learning, and why is it good for anyone.</p>
