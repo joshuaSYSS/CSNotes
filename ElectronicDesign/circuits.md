@@ -1,4 +1,4 @@
-# Electronic Design / Circuits
+## Electronic Design / Circuits
 
 ### MIT 6.012 Microelectronic Devices and Circuits
 - Prerequistes:
