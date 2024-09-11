@@ -104,4 +104,4 @@ Actual Motivation Here: "Success is not final; failure is not fatal: It is the c
 <hr>
 Created on 6/9/2024.<br>
 Created by Joshua CHOI Kui Wang. Email me: sy10236@syss.edu.hk or kuiwchoi2-c@my.cityu.edu.hk<br>
-Education should be free for all, hence this project is Unlicensed.
+Education should be free for all, hence this project is Unlicensed. All references' and materials' copyright used here belongs to their respective owners.
