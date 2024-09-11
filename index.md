@@ -20,10 +20,10 @@ This website will keep updating as I pursue my studies, so stay tuned!
 - [How should I use this notes?]
 
 ### Mathematics
-- [Algebra]
-- [Geometry]
-- [Calculus]
-- [Statistics and Probability]
+- [Algebra](https://joshuasyss.github.io/CSNotes/Mathematics/algebra.html)
+- [Geometry](https://joshuasyss.github.io/CSNotes/Mathematics/geometry.html)
+- [Calculus](https://joshuasyss.github.io/CSNotes/Mathematics/calculus.html)
+- [Statistics and Probability](https://joshuasyss.github.io/CSNotes/Mathematics/statistics.html)
 - [Discrete Math](https://joshuasyss.github.io/CSNotes/Mathematics/discretemath.html)
 
 ### Basic Programming
