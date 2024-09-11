@@ -1,5 +1,4 @@
-# Computer Architecture
-## Basic Computer Architecture
+# Computer Architecture / Basic Computer Architecture
 
 ### Coursera Nand2Tetris 🎯
 - Prerequisites:
