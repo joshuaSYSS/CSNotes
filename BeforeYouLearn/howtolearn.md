@@ -1,5 +1,4 @@
-# Before you Learn
-## How to self learn?
+## Before you Learn / How to self learn?
 
 ### Preface
 I would say there are plenty of materials online that not only teaches you how to learn stuff on your own, but how to do that efficiently.<br>
