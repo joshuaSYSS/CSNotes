@@ -1,5 +1,4 @@
-# Before You Learn
-## How to use this notes?
+## Before You Learn / How to use this notes?
 
 Here, I will talk about some notations and keywords located throughout this notes.
 1. In each section, I will provide a description on what that topic is.
