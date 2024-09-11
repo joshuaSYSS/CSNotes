@@ -1,4 +1,4 @@
-# CityU Notes and Others
+## CityU Notes and Others
 
 ### Why CityU?
 Located in the heart of Hong Kong, CityUHK has a well-earned reputation as an innovative hub for research and professional education and for addressing global issues and empowering positive change.
